@@ -18,3 +18,9 @@ so far in this hangman project, we have been able to create a program which asks
 
 #Latest Update - 16/10/2024
 Hangman project now underway with milestones 1-5 copleted. Methods that check the guess and input have been made. Program is currently able to ask for user input and check if the user input is a single alphanumerical character, as well as checking the users guessed word against the list of random words and prompting the user to either try again and lose a life or re-enter their if conditions aren't met(single character alphanumerical value). File sent to git hub repo.
+Program breaks if num_lives becomes 0.
+
+
+
+#Update Milestone_5.py added
+New file, added code. New game function
