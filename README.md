@@ -18,6 +18,6 @@ Program breaks if num_lives becomes 0.
 
 
 #Update Milestone_5.py added
-New file, added code. New game function
+New file, added code. New game function.
 
 
